@@ -1,4 +1,4 @@
-# minioj后端部署
+# minioj-code-sandbox部署
 
 远程服务器为Ubuntu24
 
